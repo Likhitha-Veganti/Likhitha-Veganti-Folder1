@@ -1,0 +1,4 @@
+Developed a model to classify the genre from the Audio clips by using Convolutional Neural Network.
+Used libraries such as librosa, IPython for Data Interpretation and used sequential model of keras in tensorflow flow.  
+
+Tech Stack – Python, Convolutional Neural Network, Keras(Tensorflow), GTZAN Dataset. 
